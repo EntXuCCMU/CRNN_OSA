@@ -21,10 +21,10 @@ data/
 Data Sources & Access
 1. Internal Dataset (Sismanoglio Cohort)
 The internal dataset used in this study is the **PSG-Audio Dataset**, collected at Sismanoglio-Amalia Fleming General Hospital. It is publicly available.
-* Download Link: [Science Data Bank (PSG-Audio)](https://www.scidb.cn/en/detail?dataSetId=778740145531650048) or [PhysioNet](https://www.google.com/search?q=https://physionet.org/content/psg-audio/)
+* Download Link: [Science Data Bank (PSG-Audio)](https://www.scidb.cn/en/detail?dataSetId=778740145531650048)
 * Description: Contains full-night PSG recordings with synchronized audio from 286 subjects.
 * Citation: If you use this dataset, please cite the original authors:
-> Korompili, G., Amfilochiou, A., Kokkalas, L. et al. PSG-Audio, a scored polysomnography dataset with simultaneous audio recordings for sleep apnea studies. *Sci Data* 8, 197 (2021). https://www.google.com/search?q=https://doi.org/10.1038/s41597-021-00977-w
+> Korompili, G., Amfilochiou, A., Kokkalas, L. et al. PSG-Audio, a scored polysomnography dataset with simultaneous audio recordings for sleep apnea studies. *Sci Data* 8, 197 (2021). 
 2. External Dataset (Beijing Tongren Hospital)
 The external validation dataset was collected from the Sleep Medicine Center of Beijing Tongren Hospital.
 * Access Status: Restricted / Private.
@@ -39,3 +39,4 @@ After downloading the public dataset:
 cd ..
 python preprocess.py --data_dir data/raw_audio --output_dir data/processed
 ```
+
