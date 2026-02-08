@@ -27,7 +27,7 @@ The proposed architecture consists of four key components:
 4.  **Hybrid Loss:** Optimized using a combination of Weighted Focal Loss and Dice Loss to handle class imbalance and ensure event continuity.
 
 <div align="center">
-  <img src="assets/architecture.TIF" alt="Dual-Stream CRNN Architecture" width="800"/>
+  <img src="assets/architecture.png" alt="Dual-Stream CRNN Architecture" width="800"/>
   <br>
   <em>Figure 1: Schematic illustration of the proposed Dual-Stream CRNN architecture.</em>
 </div>
