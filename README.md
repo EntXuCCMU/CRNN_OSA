@@ -39,12 +39,12 @@ This study utilizes two datasets:
 1.  **Internal Dataset (Sismanoglio Cohort):**
     * **Source:** Sismanoglio-Amalia Fleming General Hospital.
     * **Subjects:** 286 full-night recordings.
-    * **Access:** This dataset is publicly available. Please refer to [Reference 22 in Paper] or contact the original authors for access.
-
+    * **Access:** This dataset is publicly available. Please refer to 'https://www.scidb.cn/en/detail?dataSetId=778740145531650048' for access.
+ 
 2.  **External Dataset (Beijing Tongren Hospital Cohort):**
     * **Source:** Beijing Tongren Hospital.
     * **Subjects:** 60 subjects (Balanced severity distribution).
-    * **Access:** Due to privacy regulations and ethical restrictions, this dataset is **not publicly available**.
+    * **Access:** The datasets generated and analyzed during the current study are not publicly available due to ethical restrictions but are available from the corresponding author upon reasonable request.
 
 ## 🛠️ Installation
 
