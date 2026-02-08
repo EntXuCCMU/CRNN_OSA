@@ -39,7 +39,7 @@ This study utilizes two datasets:
 1.  **Internal Dataset (Sismanoglio Cohort):**
     * **Source:** Sismanoglio-Amalia Fleming General Hospital.
     * **Subjects:** 286 full-night recordings.
-    * **Access:** This dataset is publicly available. Please refer to 'https://www.scidb.cn/en/detail?dataSetId=778740145531650048' for access.
+    * **Access:** This dataset is publicly available. Please refer to https://www.scidb.cn/en/detail?dataSetId=778740145531650048 for access.
  
 2.  **External Dataset (Beijing Tongren Hospital Cohort):**
     * **Source:** Beijing Tongren Hospital.
@@ -55,6 +55,6 @@ This study utilizes two datasets:
 
 ### Setup
 ```bash
-git clone [https://github.com/yourusername/Fine-Grained-OSA-CRNN.git](https://github.com/yourusername/Fine-Grained-OSA-CRNN.git)
+git clone [https://github.com/EntXuCCMU/CRNN_OSA.git]
 cd Fine-Grained-OSA-CRNN
 pip install -r requirements.txt
