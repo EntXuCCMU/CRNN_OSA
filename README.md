@@ -55,6 +55,6 @@ This study utilizes two datasets:
 
 ### Setup
 ```bash
-git clone [https://github.com/EntXuCCMU/CRNN_OSA.git]
-cd Fine-Grained-OSA-CRNN
+git clone https://github.com/EntXuCCMU/CRNN_OSA.git
+cd CRNN_OSA
 pip install -r requirements.txt
