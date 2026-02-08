@@ -1,0 +1,23 @@
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Dataset & Sensitive Data
+data/
+*.wav
+*.npy
+*.json
+
+# IDE settings
+.vscode/
+.idea/
+*.swp
+
+# Model Checkpoints
+checkpoints/
+*.pth
+!best_model.pth
+
+# OS files
+.DS_Store
+Thumbs.db
